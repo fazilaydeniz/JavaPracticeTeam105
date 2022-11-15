@@ -18,7 +18,7 @@ public class Q7_DenemeStringteGecenRakamlariToplama {
      */
 
     public static void main(String[] args) {
-        String input = "ade1r4d3";
+        String input = "ade1r4d3   ";
 
         rakamlarıTopla(input);
 

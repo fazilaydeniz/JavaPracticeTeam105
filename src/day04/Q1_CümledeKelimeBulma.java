@@ -36,7 +36,6 @@ public class Q1_CümledeKelimeBulma {
                 sayac++;
             }
         }
-        System.out.println(sayac);
 
         if(sayac>1){
             System.out.println("Cumlenin icerisinde " + sayac + " tane '" + kelime + "' var.");
